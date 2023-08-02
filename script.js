@@ -18,7 +18,8 @@ Employee.prototype.jobGreet=function() {
 
 	
 }
-let employee=new Employee("Prashanth","20","Devloper")
+const person = new Person("Alice", 25); 
+const employee = new Employee("Bob", 30, "Manager");
 
 
 
