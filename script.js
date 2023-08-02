@@ -18,6 +18,8 @@ Employee.prototype.jobGreet=function() {
 
 	
 }
+let employee=new Employee("Prashanth","20","Devloper")
+
 
 
 
